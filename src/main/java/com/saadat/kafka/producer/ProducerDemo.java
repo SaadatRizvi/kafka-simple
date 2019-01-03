@@ -1,4 +1,4 @@
-package com.saadat.kafka;
+package com.saadat.kafka.producer;
 
 import java.util.Properties;
 import org.apache.kafka.clients.producer.KafkaProducer;
